@@ -39,10 +39,18 @@
   "comments": [
     {
       "id": "1",
-      "boddy": "some",
+      "boddy": "some comment",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "boddy": "some comment",
       "postId": 1
     }
-  ]
+  ],
+  "profile": {
+    "name": "userxx1000"
+  }
 }
 
 
