@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Matrix",
-      "photo": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/02/matrix-pelicula-1867253.jpg?tf=3840x",
+      "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/02/matrix-pelicula-1867253.jpg",
       "duration": "2 horas",
       "gender": "Ciencia ficción",
       "index": 1
@@ -11,51 +11,31 @@
     {
       "id": "2",
       "name": "El Señor de los Anillos",
-      "photo": "https://hips.hearstapps.com/hmg-prod/images/la-comunidad-del-anillo-el-senor-de-los-anillos-pelicula-estreno-1639857066.jpg?crop=1.00xw:0.504xh;0,0.127xh&resize=1200:*",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/la-comunidad-del-anillo-el-senor-de-los-anillos-pelicula-estreno-1639857066.jpg?crop=1.00xw:0.504xh;0,0.127xh&resize=1200:*",
       "duration": "3 horas",
-      "gender": "Fantasía"
+      "gender": "Fantasía",
       "index": 2
     },
     {
       "id": "3",
       "name": "Interestelar",
-      "photo": "https://hips.hearstapps.com/hmg-prod/images/interstellar-1563274942.jpg?crop=0.888671875xw:1xh;center,top&resize=1200:*",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/interstellar-1563274942.jpg?crop=0.888671875xw:1xh;center,top&resize=1200:*",
       "duration": "2 horas 49 minutos",
       "gender": "Ciencia ficción"
-      "index": 2
     },
     {
       "id": "4",
       "name": "Titanic",
-      "photo": "https://historia.nationalgeographic.com.es/medio/2023/06/20/the-steamship-titanic-rmg-bhc3667_00000000_9b5bd117_230620084252_1200x630.jpg",
+      "image": "https://historia.nationalgeographic.com.es/medio/2023/06/20/the-steamship-titanic-rmg-bhc3667_00000000_9b5bd117_230620084252_1200x630.jpg",
       "duration": "3 horas 14 minutos",
-      "genero": "Drama romántico"
-      "index": 4
+      "gender": "Drama romántico"
     },
     {
       "id": "5",
       "name": "El Padrino",
-      "photo": "https://hips.hearstapps.com/hmg-prod/images/al-pacino-sits-in-a-chair-in-a-scene-from-the-film-the-news-photo-1635770483.jpg?crop=0.714xw:0.915xh;0.106xw,0.00416xh&resize=1200:*",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/al-pacino-sits-in-a-chair-in-a-scene-from-the-film-the-news-photo-1635770483.jpg?crop=0.714xw:0.915xh;0.106xw,0.00416xh&resize=1200:*",
       "duration": "2 horas 55 minutos",
-      "genero": "Crimen"
-      "index": 5
+      "gender": "Crimen"
     }
   ]
-  "comments": [
-    {
-      "id": "1",
-      "boddy": "some comment",
-      "postId": 1
-    },
-    {
-      "id": "2",
-      "boddy": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "userxx1000"
-  }
 }
-
-
